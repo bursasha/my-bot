@@ -1,0 +1,13 @@
+appdirs==1.4.3
+certifi==2019.11.28
+chardet==3.0.4
+Cython==0.23
+beautifulsoup4==4.9.1
+pyTelegramBotAPI==3.6.7
+requests==2.23.0
+selenium==3.141.0
+openpyxl==3.0.3
+lxml==4.5.1
+urllib3==1.25.8
+Flask==1.1.1
+gunicorn
