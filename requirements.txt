@@ -7,7 +7,7 @@ pyTelegramBotAPI==3.6.7
 requests==2.23.0
 selenium==3.141.0
 openpyxl==3.0.3
-lxml==4.5.1
+lxml==4.6.3
 urllib3==1.25.8
 Flask==1.1.1
 gunicorn
